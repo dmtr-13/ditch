@@ -250,14 +250,14 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
     font-size: 12px;
     line-height: 16px;
     padding-right: 25px;
-    background-image: url('/img/svg/arrowRightPic.svg');
+    background-image: url('../img/svg/arrowRightPic.svg');
     background-repeat: no-repeat;
     background-position: 96%;
 }
 .ideas__cards-link:hover{
     color: #3730A3;
     text-shadow: 0 0 35px #3730A3;
-    background-image: url('/img/svg/arrowRightPic.svg');
+    background-image: url('../img/svg/arrowRightPic.svg');
     background-repeat: no-repeat;
     background-position: right;
     opacity: .75;
